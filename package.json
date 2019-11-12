@@ -1,0 +1,22 @@
+{
+  "name": "nodecalculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scfulton/NodeCalculator.git"
+  },
+  "author": "Scotty Fulton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scfulton/NodeCalculator/issues"
+  },
+  "homepage": "https://github.com/scfulton/NodeCalculator#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
